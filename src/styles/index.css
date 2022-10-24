@@ -1,12 +1,24 @@
+.navbar-brand{
+    color: white;
+}
 
-/* 
+.navbar-brand:hover{
+    color: rgb(210, 233, 252);
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.textNav ul li a{
+    color: white;
+}
 
-*/
+.textNav ul li a:hover{
+    color: rgb(210, 233, 252);
+}
+
+.fa-bars{
+    color: white;
+}
+
+.fa-bars:hover{
+    color: rgb(210, 233, 252);
+}
+
